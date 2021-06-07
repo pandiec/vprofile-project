@@ -23,3 +23,5 @@ Then look for the file :
 - > mysql -u <user_name> -p accounts < accountsdb.sql
 
 
+### Adding the changes for the testing the conflicts
+
